@@ -1,0 +1,28 @@
+body{
+  background: purple;
+}
+
+div.fred{
+  margin-top: 20px;
+}
+
+p#mycopy{
+  text-align:center;
+}
+
+div.ry{
+  border: 2px dashed white;
+}
+
+div.flex-container{
+  display: flex;
+  flex direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+div.flex-item{
+ display: flex;
+ justify-content: flex-start;
+ align-items: center;
+}
