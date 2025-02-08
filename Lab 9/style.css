@@ -1,0 +1,15 @@
+a{
+  font-size: 16px;
+}
+
+table{
+  border: 1px solid blue;
+  border-radius: 7px;
+  color: red;
+  padding: 5px;
+}
+
+td, th{
+  border: 1px solid blue;
+  padding: 5px;
+}
