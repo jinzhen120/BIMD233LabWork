@@ -1,0 +1,27 @@
+a{
+  font-size: 16px;
+}
+
+table{
+  border: 1px solid blue;
+  border-radius: 7px;
+  color: red;
+  padding: 5px;
+  text-align: center;
+}
+
+td, th{
+  border: 1px solid blue;
+  padding: 5px;
+}
+
+.container{
+border: 3px dashed green;
+margin: 0 auto;   
+padding:20px;
+text-align: center;
+}
+
+div{
+  text-align: center;
+}
