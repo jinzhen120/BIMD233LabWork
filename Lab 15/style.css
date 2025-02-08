@@ -1,0 +1,36 @@
+body{
+  background: indigo;
+}
+
+div.carousel-inner{
+  margin-top: 20px;
+}
+
+div#carousel slide{
+   margin-top: 20px;
+}
+
+p#mycopy{
+  text-align:center;
+  color: white;
+}
+
+
+div.ry{
+  border: 2px dashed white;
+}
+
+div.flex-container{
+  display: flex;
+  flex direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 20px;
+}
+
+div.flex-item{
+ display: flex;
+ justify-content: flex-start;
+ align-items: center;
+}
+
